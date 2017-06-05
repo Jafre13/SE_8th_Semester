@@ -62,4 +62,4 @@ def generate_b_data():
     plt.show()
 
 
-generate_b_data()
+generate_a_data()
